@@ -1,0 +1,19 @@
+{
+  "News" : 
+  [ 
+  
+  { 
+    "title" : "Link 1 Title",
+    "url" : "https://google.com"
+  },
+  { 
+    "title" : "Link 2 Title",
+    "url" : "https://youtube.com"
+  },
+  { 
+    "title" : "Link 3 Title",
+    "url" : "https://firebase.com"
+  }
+ 
+  ]
+}
